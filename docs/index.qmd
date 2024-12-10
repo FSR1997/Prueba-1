@@ -9,5 +9,5 @@ editor: visual
 ## Subtítulo
 
 $$
-hola señores
+hola señores, que tal?
 $$
